@@ -4,11 +4,11 @@
 | Junior IT Support Assistant  
 | Building my career in Software Development
 
-## 𝗦𝗼𝗰𝗶𝗮𝗶𝘀
+##  ១ ࣪.ᨳ 𝗦𝗼𝗰𝗶𝗮𝗶𝘀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-lopes-4067b33b6/)
 
-## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+## * ★ᰍ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀
+###  ˖ ࣪ ‹ ˖ 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀
 
 | Technical support
 | Equipment maintenance
